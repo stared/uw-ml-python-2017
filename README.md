@@ -1,2 +1,4 @@
-# ml-python-workshop-17
-ipython notebooks with ML materials
+# Machine Learning in Python workshop 2017
+
+IPython notebooks with Machine Learning materials written in Python for
+internal business training.
